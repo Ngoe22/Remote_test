@@ -5,7 +5,11 @@
 
 int main() {
 
-    printf("Remote test ") ;
-    printf("Remote test 1") ;
+    printf("Remote test \n") ;
+    printf("Remote test 1\n") ;
+    printf("Remote test 1\n") ;
+    printf("Remote test 1\n") ;
+    printf("Remote test 1\n") ;
+    printf("Remote test 143242\n") ;
     return 0;
 }
