@@ -5,15 +5,6 @@
 
 int main() {
 
-    printf("Remote test \n") ;
-    printf("Remote test 1\n") ;
-    printf("Remote test 1\n") ;
-    printf("Remote test 1\n") ;
-    printf("Remote test 1\n") ;
-    printf("Remote test 143242\n") ;
-    int a = 0 ;
-    int b = 8 ; 
-    int c = 10 ;
-    printf("%d",a+b) ;
+    printf("USE THE WORK SPACE ") ;
     return 0;
 }
