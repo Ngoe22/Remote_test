@@ -13,5 +13,6 @@ int main() {
     printf("Remote test 143242\n") ;
     int a = 0 ;
     int b = 8 ; 
+    int c = 10 ;
     return 0;
 }
