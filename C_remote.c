@@ -6,5 +6,6 @@
 int main() {
 
     printf("Remote test ") ;
+    printf("Remote test 1") ;
     return 0;
 }
