@@ -11,5 +11,6 @@ int main() {
     printf("Remote test 1\n") ;
     printf("Remote test 1\n") ;
     printf("Remote test 143242\n") ;
+    int a = 0 ;
     return 0;
 }
