@@ -14,5 +14,6 @@ int main() {
     int a = 0 ;
     int b = 8 ; 
     int c = 10 ;
+    printf("%d",a+b) ;
     return 0;
 }
